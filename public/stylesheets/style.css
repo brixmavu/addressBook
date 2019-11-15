@@ -1,0 +1,18 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.update {
+  color: #333;
+  margin-right: 5px;
+}
+.remove {
+  color: red;
+  margin-left: 5px;
+}
+.alert {
+  padding: 0 14px;
+  margin-bottom: 0;
+  display: inline-block;
+}
